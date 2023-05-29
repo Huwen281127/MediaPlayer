@@ -9,8 +9,8 @@
     <Grid Background="#FF91A8D0">
         <MediaElement x:Name="MedShow" HorizontalAlignment="Left" Height="265" Margin="100,65,0,0" VerticalAlignment="Top" Width="604" MediaOpened="MedShow_MediaOpened"/>
         <Button x:Name="btnPlay" Content="播放" HorizontalAlignment="Left" Margin="100,364,0,0" VerticalAlignment="Top" Width="75" Height="35" Background="#FFF8CDCD" Click="btnPlay_Click"/>
-        <Button x:Name="btnPause" Content="暫停" HorizontalAlignment="Left" Margin="220,364,0,0" VerticalAlignment="Top" Width="75" Height="35" Background="#FFF8CDCD" Click="btnPause_Click"/>
-        <Button x:Name="btnStop" Content="停止" HorizontalAlignment="Left" Margin="340,364,0,0" VerticalAlignment="Top" Width="75" Height="35" Background="#FFF8CDCD" Click="btnStop_Click"/>
+        <Button x:Name="btnPause" Content="暫停" HorizontalAlignment="Left" Margin="224,364,0,0" VerticalAlignment="Top" Width="75" Height="35" Background="#FFF8CDCD" Click="btnPause_Click"/>
+        <Button x:Name="btnStop" Content="停止" HorizontalAlignment="Left" Margin="344,364,0,0" VerticalAlignment="Top" Width="75" Height="35" Background="#FFF8CDCD" Click="btnStop_Click"/>
         <Button x:Name="btnExit" Content="離開" HorizontalAlignment="Left" Margin="462,364,0,0" VerticalAlignment="Top" Width="75" Height="35" Background="#FFF8CDCD" Click="btnExit_Click"/>
         <TextBox x:Name="txtFilePath" HorizontalAlignment="Left" Height="35" Margin="100,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="472" Background="#FFF8CDCD"/>
         <Button x:Name="btnOpenFile" Content="開啟檔案" HorizontalAlignment="Left" Margin="598,25,0,0" VerticalAlignment="Top" Width="106" Height="35" Background="#FFF8CDCD" Click="btnOpenFile_Click"/>
